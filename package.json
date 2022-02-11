@@ -1,0 +1,33 @@
+{
+  "name": "parallel_processing",
+  "version": "1.0.0",
+  "description": "parallel processing in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-akhil-kumar/parallel-processing.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cluster",
+    "parallel",
+    "processing",
+    "worker",
+    "express"
+  ],
+  "author": "akhil kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-akhil-kumar/parallel-processing/issues"
+  },
+  "homepage": "https://github.com/d-akhil-kumar/parallel-processing#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
